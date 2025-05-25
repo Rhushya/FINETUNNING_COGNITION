@@ -1,5 +1,3 @@
-Based on your Jupyter Notebook titled **"FINAL\_RHUSHYA\_COGNITION\_LAB"**, here's a detailed `README.md` file tailored to your project. This assumes your objective is to fine-tune a language model using synthetic reasoning data and the Unsloth framework.
-
 ---
 
 #  Rhushya  – Reasoning Model Fine-Tuning
